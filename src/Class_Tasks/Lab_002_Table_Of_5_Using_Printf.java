@@ -1,4 +1,4 @@
-package Ex_01_Java_Basic;
+package Class_Tasks;
 
 public class Lab_002_Table_Of_5_Using_Printf {
 
